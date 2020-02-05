@@ -1,4 +1,4 @@
-const url = '/content/lesson.html';
+const url = './content/lesson.html';
 
 const goToSlide = (delta) => {
     const currentSlide = document.querySelector('.slide.current');
